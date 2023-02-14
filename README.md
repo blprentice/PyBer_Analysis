@@ -11,3 +11,14 @@ The totals data for each city type makes intuitive sense. Urban cities have far 
 ![Total Fare by City Type](analysis/Total_Fare_by_City_Type.png)
 
 
+The above graphic depicts total weekly fares by city type from January through April. The first impression upon studying the three lines on the graph is that they are all fairly flat; there are no major spikes in the data for urban, suburban, or rural cities. Total weekly fares for urban cities started the year around $1600, then rose to above $2000 and stayed there until the end of April. The high points for urban cities were in late February and early March, when total fares reached approximately $2500. Total fares in suburban cities tracked just above or below $1000 for most of the period, except for a spike in late February that almost reached $1500. Total fares for rural cities tracked just above and below $250 for most of the period. There were two spikes in the data, though, in late February and the beginning of April when total fares were just below and approximately equal to $500, respectively. All three city types experienced a spike in the fare data in late February; more research could be conducted to find out if there was any particular reason for that.
+
+## Summary
+
+Urban cities will always be the core of PyBer's business. Urban cities are where most of the people live, especially younger people who either cannot afford a personal vehicle or prefer not to own one. That said, increasing the number of drivers in Suburban and Rural cities should be a high priorty for PyBer. Developing some type of incentive structure will be necessary to encourage more people to become PyBer drivers in Suburban and Rural area. Here are three possible options:
+
+- Providing a low-cost "Lease to Buy" option for potential drivers in Rural and Suburban cities
+- Developing a subsidy program to assist with the cost of fuel
+- Developing a bonus program for drivers in Urban cities who agree to drive in suburban or rural cities
+
+Of course, all three of these options represet a cost for PyBer. But, as the old saying goes, you have to spend money to money!
