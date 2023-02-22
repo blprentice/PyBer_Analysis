@@ -24,4 +24,4 @@ Urban cities will always be the core of PyBer's business. Urban cities are where
 - Developing a subsidy program to assist with the cost of fuel
 - Developing a bonus program for drivers in Urban cities who agree to drive in suburban or rural cities
 
-Of course, all three of these options represet a cost for PyBer. But, as the old saying goes, you have to spend money to money!
+Of course, all three of these options represent a cost for PyBer. But, as the old saying goes, you have to spend money to make money!
